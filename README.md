@@ -20,8 +20,8 @@ It includes interactive filters using *data validation (manual dropdowns)* for:
 - Country
 
 > ⚠️ *Note:*  
-> The *Product Name* column contained multiple products listed *within a single cell* (e.g., 2–3 product names per entry).  
-> Extracting and analyzing them individually required complex formulas and creative structuring to enable filtering and accurate calculations.
+> The *Product Name* column, which is part of my Interactive Filters, contains cells listing 3 to 5 products per cell.  
+> This required the use of complex Excel functions to manage dynamic filtering and calculations, making the process quite challenging.
 
 ---
 
