@@ -1,5 +1,5 @@
 
-#📊 Profit Insights Dashboard
+# 📊 Profit Insights Dashboard
 
 This project is a beginner-focused Excel dashboard that analyzes *Revenue*, *Cost*, and *Profit* trends across different products, customer segments, and countries.
 
