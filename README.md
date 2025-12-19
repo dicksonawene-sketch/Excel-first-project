@@ -40,6 +40,15 @@ It includes interactive filters using *data validation (manual dropdowns)* for:
 
 ---
 
+
+🔗 Try the Interactive Dashboard
+
+You can view and interact with the Profit Insights Dashboard directly via Excel Online:
+
+[Click here to open the dashboard (editable)](https://1drv.ms/x/c/0aff130a0e654055/IQC23nd2lE-eRJ1HjuzPlXE4AZDqRVOTftwJO8UVMNg11tk?e=lyQooq&nav=MTVfezI4MUIxNjNELTBGM0YtNEYzNy1BMjkzLTg1QjExODg1ODVDNH0)
+
+---
+
 🧠 Functions & Techniques Used
 
 - *Platform:* Microsoft Excel
